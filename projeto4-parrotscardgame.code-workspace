@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../projeto3-driveneats"
+		},
+		{
+			"path": "../projeto2-instagram"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto4-parrotscardgame"
+	}
+}
